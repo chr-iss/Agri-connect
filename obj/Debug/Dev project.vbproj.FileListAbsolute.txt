@@ -1,0 +1,37 @@
+C:\Users\Student\source\repos\Dev project\bin\Debug\Dev project.exe.config
+C:\Users\Student\source\repos\Dev project\bin\Debug\Dev project.exe
+C:\Users\Student\source\repos\Dev project\bin\Debug\Dev project.pdb
+C:\Users\Student\source\repos\Dev project\bin\Debug\Dev project.xml
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev project.vbproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.Form1.resources
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.home_page.resources
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.Resources.resources
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev project.vbproj.GenerateResource.cache
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev project.vbproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev project.exe
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev project.xml
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev project.pdb
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.ForgotPassword.resources
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.RegisterPage.resources
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.education.resources
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.FAQ.resources
+C:\Users\Student\source\repos\Dev project\obj\Debug\Dev_project.hirePage.resources
+C:\Users\sitho\Documents\dev\Dev project\bin\Debug\Dev project.exe.config
+C:\Users\sitho\Documents\dev\Dev project\bin\Debug\Dev project.exe
+C:\Users\sitho\Documents\dev\Dev project\bin\Debug\Dev project.pdb
+C:\Users\sitho\Documents\dev\Dev project\bin\Debug\Dev project.xml
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev project.vbproj.AssemblyReference.cache
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.education.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.FAQ.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.ForgotPassword.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.Form1.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.hirePage.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.home_page.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.Resources.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev_project.RegisterPage.resources
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev project.vbproj.GenerateResource.cache
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev project.vbproj.CoreCompileInputs.cache
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev project.exe
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev project.xml
+C:\Users\sitho\Documents\dev\Dev project\obj\Debug\Dev project.pdb
